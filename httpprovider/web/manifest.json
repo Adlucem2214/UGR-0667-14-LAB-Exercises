@@ -1,6 +1,6 @@
 {
-    "name": "httpriverpod",
-    "short_name": "httpriverpod",
+    "name": "httpprovider",
+    "short_name": "httpprovider",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

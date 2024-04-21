@@ -1,4 +1,4 @@
-# httpriverpod
+# httpprovider
 
 A new Flutter project.
 

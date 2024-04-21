@@ -1,4 +1,4 @@
-package com.example.httpriverpod
+package com.example.httpprovider
 
 import io.flutter.embedding.android.FlutterActivity
 
