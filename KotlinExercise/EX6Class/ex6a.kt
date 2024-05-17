@@ -10,10 +10,10 @@ class Rectangle(val length: Double, val width: Double) {
 }
 
 fun main() {
-    println("Enter the length of the rectangle:")
+    println("Enter the lenth of rectangle:")
     val length = readLine()?.toDoubleOrNull()
 
-    println("Enter the width of the rectangle:")
+    println("Enter the width of rectangle:")
     val width = readLine()?.toDoubleOrNull()
 
     if (length != null && width != null) {
@@ -24,7 +24,5 @@ fun main() {
 
         println("Perimeter: $perimeter")
         println("area: $area")
-    } else {
-        println("invalid input")
     }
 }

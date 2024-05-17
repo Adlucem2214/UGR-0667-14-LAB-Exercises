@@ -14,7 +14,6 @@ fun isPrime(number: Int): Boolean {
 }
 
 fun findPrimesInRange(start: Int, end: Int) {
-    println("Prime numbers between $start and $end:")
     var current = start
     while (current <= end) {
         if (isPrime(current)) {

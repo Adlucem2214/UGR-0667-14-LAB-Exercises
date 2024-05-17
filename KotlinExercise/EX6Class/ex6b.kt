@@ -25,7 +25,5 @@ fun main() {
         val triangleType = triangle.determineTriangleType()
 
         println("triangle type: $triangleType")
-    } else {
-        println("invalid input.")
     }
 }

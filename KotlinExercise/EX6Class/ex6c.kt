@@ -48,7 +48,7 @@ fun main() {
 
             println("Total Price: $totalPrice")
         } else {
-            println("Invalid inpu")
+            println("Invalid input")
         }
     }
 }
